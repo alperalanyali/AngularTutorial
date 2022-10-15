@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{98C0CC26-E87C-4069-B533-3D9529456FEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebapiforAngular/Controllers/DepartmentController.cs">
+    <Files>
+      <File FileName="WebapiforAngular/Controllers/EmployeeController.cs" Line="209" Column="79" />
+      <File FileName="WebapiforAngular/Controllers/DepartmentController.cs" Line="292" Column="63" />
+      <File FileName="WebapiforAngular/appsettings.json" Line="5" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebapiforAngular" expanded="True">
+            <Node name="WebapiforAngular" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DepartmentController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="MongoDB" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebapiforAngular PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alperalanyali/Desktop/AngularTutorial/Angular12andDotNetCorewebapiFulStack/WebapiforAngular/WebapiforAngular/Controllers/DepartmentController.cs" relfile="WebapiforAngular/Controllers/DepartmentController.cs" line="97" column="1" />
+      <Breakpoint file="/Users/alperalanyali/Desktop/AngularTutorial/Angular12andDotNetCorewebapiFulStack/WebapiforAngular/WebapiforAngular/Controllers/EmployeeController.cs" relfile="WebapiforAngular/Controllers/EmployeeController.cs" line="349" column="1" />
+      <Breakpoint file="/Users/alperalanyali/Desktop/AngularTutorial/Angular12andDotNetCorewebapiFulStack/WebapiforAngular/WebapiforAngular/Controllers/DepartmentController.cs" relfile="WebapiforAngular/Controllers/DepartmentController.cs" line="334" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

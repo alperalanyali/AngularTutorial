@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C53305BD-8C3A-48F0-A9F6-04936811988F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebapiForAngular2/Controllers/DepartmentController.cs">
+    <Files>
+      <File FileName="WebapiForAngular2/Controllers/DepartmentController.cs" Line="58" Column="1" />
+      <File FileName="WebapiForAngular2/appsettings.json" Line="3" Column="127" />
+      <File FileName="WebapiForAngular2/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebapiForAngular2" expanded="True">
+            <Node name="WebapiForAngular2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="DepartmentController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebapiForAngular2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

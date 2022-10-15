@@ -1,0 +1,9 @@
+<Header  (startNewSearch)="startNewSearch()"></Header>
+<main>
+    <div class="container">
+        <display-movie *ngIf="currentMovie" class="row" [movie] = "currentMovie"></display-movie>
+        <search-movie  *ngIf="currentMovie" class="row"></search-movie>
+    </div>
+   
+</main>
+<footer-component></footer-component>
